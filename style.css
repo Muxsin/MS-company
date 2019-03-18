@@ -1,0 +1,66 @@
+.body{
+  background-color: #e6e6e6;
+}
+.ms-field{
+  box-shadow: 0 0 5px rgba(229, 231, 233, 1);
+  padding-top: 3px;
+}
+.div {
+ margin-bottom: 15px;
+}
+#company{
+  font-style: italic;
+  font-weight: bold;
+}
+#column {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 15px;
+ padding: 10px 25px 10px 25px;
+}
+.left-column {
+  width: 73%;
+  min-height: 400px;
+  float: left;
+  background-color: #333333;
+  color: white;
+
+  box-shadow: 0 0 8px rgba(229, 231, 233, 1);
+  padding: 10px;
+  border-radius: 4px;
+}
+#p {
+  border-radius: 7px;
+  background-color: white;
+  width: 44px;
+}
+#pp {
+  background-color: #333333;
+  padding-left: 7px;
+}
+a {
+  color: white;
+}
+.right-column {
+  width: 23%;
+  min-height: 400px;
+  float:right;
+  background-color:#333333;
+  box-shadow: 0 0 8px rgba(229, 231, 233, 1);
+  padding: 10px;
+  border-radius: 4px;
+}
+a {
+  background-color: #404040;
+}
+.footer {
+  margin-top: 30px;
+  width: 100%;
+  min-height: 400px;
+  clear: both;
+  background-color:#333333;
+  box-shadow: 0 0 8px rgba(229, 231, 233, 1);
+  padding: 10px;
+  border-radius: 4px;
+}
